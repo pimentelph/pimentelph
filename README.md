@@ -17,7 +17,7 @@
 ###
 
 <div align="center">
-  <img height="200" src="https://tenor.com/pt-BR/view/dont-give-up-never-give-up-senpai-let-it-die-streamer-gif-17320035"  />
+  <div class="tenor-gif-embed" data-postid="17320035" data-share-method="host" data-aspect-ratio="1" data-width="100%"><a href="https://tenor.com/view/dont-give-up-never-give-up-senpai-let-it-die-streamer-gif-17320035">Dont Give Up Never Give Up GIF</a>from <a href="https://tenor.com/search/dont+give+up-gifs">Dont Give Up GIFs</a></div> <script type="text/javascript" async src="https://tenor.com/embed.js"></script>
 </div>
 
 ###
