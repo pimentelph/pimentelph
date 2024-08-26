@@ -22,9 +22,3 @@
 </div>
 
 ###
-
-<div align="center">
-  <img height="" src="https://c.tenor.com/c4km9-HlAWUAAAAC/tenor.gif"  />
-</div>
-
-###
